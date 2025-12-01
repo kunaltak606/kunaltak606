@@ -28,7 +28,7 @@
     <br><br>
     Learning Ethical Hacking
     <br><br>
-    https://www.buymeacoffee.com/DarkDev
+   
   </samp>
 </p>
 
