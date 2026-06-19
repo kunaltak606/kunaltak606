@@ -1,90 +1,118 @@
-<h2 align="center">
-  <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
-  Hello,World!
-  <img alt="Earth" src="https://raw.githubusercontent.com/OsmiumOP/OsmiumOP/main/earth.gif" width="24px"/>
-</h2>
+# 👋 Hi, I'm Kunal Tak
 
-<h2 align="center">
-    I'm
-    <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
-    Kunal
-    <img alt="dev_cat" src="https://raw.githubusercontent.com/OsmiumOP/OsmiumOP/main/dev_cat.gif" width="50"> 
-</h2>
+### Software Engineer • Certified Ethical Hacker (CEH) • Full-Stack Developer • Cybersecurity Enthusiast
 
-<img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/OsmiumOP/OsmiumOP/main/workbench.svg"/>
+Building secure software, scalable web applications, and innovative
+cybersecurity solutions.
 
-<h2 align="left">About Me</h2>
-<p align="left">
-  <samp>
-    <br>
-    Founder of Project India Fivem Community
-    <br>
-    <br>
-    DiscordJS developer
-    <br><br>
-    FiveM Developer
-    <br><br>
-    Web Designer
-    <br><br>
-    Learning Ethical Hacking
-    <br><br>
-   
-  </samp>
-</p>
+------------------------------------------------------------------------
 
-<hr/>
+## 🌐 Connect
 
-<!-- 
-- **Platforms :** Windows and Linux
-- **Languages :** <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/LUA-%230175C2.svg?&style=for-the-badge&logo=lua&logoColor=white"/>, 
+-   LinkedIn: https://www.linkedin.com/in/kunaltak/
+-   Portfolio: https://kunal-tak.vercel.app/
+-   Email: Kunaltak606@gmail.com
+-   GitHub: https://github.com/kunaltak606
 
-- **Frameworks :** <img src="https://img.shields.io/badge/DISCORDJS-blue.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>, <img src="https://img.shields.io/badge/FIVEM-orange.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
- -->
-### Languages and Tools 🛠 
+------------------------------------------------------------------------
 
-<!-- ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) -->
-<!-- ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff) -->
-<!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) -->
-<!-- ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff) -->
-<!-- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) -->
-<!-- ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff) -->
+## 💫 About Me
 
-![HTML5](https://img.shields.io/badge/-LUA-%23E44D27?style=flat-square&logo=lua&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+-   💼 Software Engineer @ **FortuneTech AI**
+-   🚀 2+ Years of Professional Software Engineering Experience
+-   🔐 EC-Council Certified Ethical Hacker (CEH)
+-   💻 Full-Stack Developer (React.js, Node.js, JavaScript, PHP)
+-   🛡️ Passionate about Cybersecurity, Penetration Testing & Secure
+    Software Development
+-   🎮 FiveM Developer
+-   🎨 Graphic Designer
+-   🌱 Currently learning Cloud Security, AI & Advanced Offensive
+    Security
 
-<hr/>
+------------------------------------------------------------------------
 
+## 🚀 Tech Stack
 
-<br/>
+### Languages
 
-<h2 align="center">Find me on</h2>
+JavaScript • TypeScript • C++ • PHP • SQL • HTML • CSS • Lua
 
-<p align="center">
+### Frontend
 
-  <a href="https://discord.gg/WjX6ZArMMJ">
-    <img alt="Discord" width="300px" src="https://nektony.com/wp-content/uploads/2019/07/discord-icon.png"/>
-  </a>
-</p>
-<hr/>
-<p align="center">
-  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
-</p>
+React.js • Next.js • Redux • Tailwind CSS • Bootstrap
 
-<p align="center">
-  Made with ❤️ in India
-</p>
+### Backend
 
------
+Node.js • Express.js • REST APIs
+
+### Databases
+
+MySQL • MongoDB • PostgreSQL
+
+### Cybersecurity
+
+Ethical Hacking • Penetration Testing • Digital Forensics • OSINT • Web
+Application Security • Vulnerability Assessment
+
+### Tools
+
+Kali Linux • Burp Suite • Metasploit • Nmap • Wireshark • SQLMap • OWASP
+ZAP • Docker • Git • Linux • VMware
+
+------------------------------------------------------------------------
+
+## 💼 Professional Experience
+
+### Software Engineer --- FortuneTech AI
+
+**April 2024 -- Present**
+
+-   Develop scalable full-stack applications.
+-   Design secure REST APIs and backend systems.
+-   Build responsive React-based interfaces.
+-   Optimize databases and application performance.
+-   Implement authentication and secure coding practices.
+-   Collaborate using Agile, Git and SDLC.
+
+------------------------------------------------------------------------
+
+## 🚀 Featured Projects
+
+-   🔐 NeoForensics -- Digital Forensics & Cyber Triage Platform
+-   🛡️ CVE Intelligence -- Vulnerability Monitoring Platform
+-   🌍 OSINT Research Platform
+-   🎮 FiveM Development Projects
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+Replace `kunaltak606` if needed.
+
+``` md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunaltak606&show_icons=true&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kunaltak606&theme=github-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaltak606&layout=compact&theme=github_dark&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kunaltak606&theme=github-dark&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kunaltak606&theme=algolia&no-frame=true&row=1&column=6)
+```
+
+------------------------------------------------------------------------
+
+## 🎯 Currently Working On
+
+-   Cybersecurity Research
+-   Full-Stack Web Applications
+-   AI Projects
+-   FiveM Development
+-   Secure Software Engineering
+
+------------------------------------------------------------------------
+
+> **Build Secure. Code Smart. Keep Learning.**
+
+Made with ❤️ by **Kunal Tak**
